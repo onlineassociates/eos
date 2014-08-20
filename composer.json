@@ -1,0 +1,17 @@
+{
+    "name": "pimcore/eos",
+    "type": "pimcore-plugin",
+    "license": "BSD-3-Clause",
+    "description": "This plugin mainly focus on features of front-end tools and features",
+    "keywords": ["pimcore","eos","plugin"],
+    "authors": [
+        {
+            "name": "OA Team",
+            "homepage": "https://github.com/onlineassociates",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "pimcore/installer-plugin": ">=1"
+    }
+}
