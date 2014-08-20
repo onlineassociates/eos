@@ -1,0 +1,4 @@
+eos
+===
+
+Pimcore plugin
